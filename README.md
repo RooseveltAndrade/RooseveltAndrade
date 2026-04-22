@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Sobre mim
-Sou um dev Full-Stack e atuo atualmente com automação de processos em ambiente corporativo, criando soluções que reduzem tarefas manuais e aumentam eficiência operacional.
+Sou um dev Full-Stack e atuo com automação de processos em ambiente corporativo, criando soluções que reduzem tarefas manuais e aumentam eficiência operacional.
 
 ---
 
