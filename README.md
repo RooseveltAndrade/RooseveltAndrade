@@ -12,9 +12,11 @@ Sou um dev Full-Stack e atuo com automação de processos em ambiente corporativ
 ---
 
 ## 🚀 Tecnologias
-- Java / Spring Boot
-- Automação (Python / Scripts)
-- JavaScript / React
+- Java
+- Spring Boot
+- Python 
+- JavaScript
+- React
 - MySQL
 - APIs REST
 
