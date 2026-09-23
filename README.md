@@ -26,7 +26,7 @@ Sou um dev Full-Stack e atuo com automação de processos em ambiente corporativ
 
 🔹 **Sentinel**  
 Sistema de gestão de tarefas com backend em Spring Boot  
-👉 (https://github.com/RooseveltAndrade/automacao_gps)
+👉 (https://github.com/RooseveltAndrade/Sentinel)
 
 
 🔹 **Gerenciamento SLA**  
